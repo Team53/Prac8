@@ -20,8 +20,10 @@ Bonjour ca va? Ca va bien et toi? Bueno
 
 Ronald Lam
 
-Hi, I play teh basketball XD
+Brief Introduction: Hi, I play teh basketball XD
 
 Deputy Vice Chief Programmer
 
 Preferred branch of engineering: Civil or Electrical or Electrical Systems
+
+Ron's Branching Changes
